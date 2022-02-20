@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/stormhacks-2022/frontend/static/css/main.a4905b23.css",
+    "main.js": "/stormhacks-2022/frontend/static/js/main.8eeda3fe.js",
+    "static/js/787.cda612ba.chunk.js": "/stormhacks-2022/frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/seagulls.mp3": "/stormhacks-2022/frontend/static/media/seagulls.ece30c71a8b8c1242ae9.mp3",
+    "static/media/beach.png": "/stormhacks-2022/frontend/static/media/beach.8311a9d24c0df163d5e8.png",
+    "static/media/California.ttf": "/stormhacks-2022/frontend/static/media/California.cb28176f5a1ec682c3f9.ttf",
+    "static/media/sparky.png": "/stormhacks-2022/frontend/static/media/sparky.2bd87ce0f03f8030a9cc.png",
+    "static/media/stormy.png": "/stormhacks-2022/frontend/static/media/stormy.0d0ee53a4b82f5b84ed2.png",
+    "static/media/oceana.png": "/stormhacks-2022/frontend/static/media/oceana.1595f6cf21f1eae9abae.png",
+    "static/media/tree.png": "/stormhacks-2022/frontend/static/media/tree.c1b2517c8787e6f40d80.png",
+    "static/media/clouds.png": "/stormhacks-2022/frontend/static/media/clouds.ca80be966e3742f510cb.png",
+    "static/media/surfriders.png": "/stormhacks-2022/frontend/static/media/surfriders.17c9f06e503740eb5607.png",
+    "static/media/ocean.png": "/stormhacks-2022/frontend/static/media/ocean.f95851b0481bf6ac7587.png",
+    "static/media/island.png": "/stormhacks-2022/frontend/static/media/island.de819ff052903040cafa.png",
+    "static/media/plasticoceans.png": "/stormhacks-2022/frontend/static/media/plasticoceans.686deae5ff3c6017d92f.png",
+    "static/media/gaimLogo.png": "/stormhacks-2022/frontend/static/media/gaimLogo.2bb30e6842aa6b43c008.png",
+    "static/media/arrow-down.png": "/stormhacks-2022/frontend/static/media/arrow-down.472a0b516d20437f2223.png",
+    "index.html": "/stormhacks-2022/frontend/index.html",
+    "main.a4905b23.css.map": "/stormhacks-2022/frontend/static/css/main.a4905b23.css.map",
+    "main.8eeda3fe.js.map": "/stormhacks-2022/frontend/static/js/main.8eeda3fe.js.map",
+    "787.cda612ba.chunk.js.map": "/stormhacks-2022/frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4905b23.css",
+    "static/js/main.8eeda3fe.js"
+  ]
+}
